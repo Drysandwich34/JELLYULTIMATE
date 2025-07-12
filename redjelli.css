@@ -19,8 +19,8 @@
     --lighterGradientPointAlpha: rgba(122, 0, 0, 0.85);
     --borderColor: rgb(71, 80, 92);
     --lighterBorderColor: rgb(255 255 255 / 20%);
-    --headerColor: rgb(48, 2, 4);
-    --drawerColor: rgb(48, 2, 4);
+    --headerColor: rgba(0, 0, 0, 0.9);
+    --drawerColor: rgba(0, 0, 0, 0.9);
     --selectorBackgroundColor: rgb(81, 55, 55);
     --selectorBackgroundColorAlpha: rgba(81, 55, 55, 0.5);
     --btnDeleteColor: rgb(169, 29, 29);
