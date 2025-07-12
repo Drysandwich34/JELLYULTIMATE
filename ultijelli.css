@@ -10,24 +10,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 :root {
+
     --elegantFinFooterText: "ElegantFin Nightly";
     color-scheme: dark;
-    --darkerGradientPoint: #111827;
-    --darkerGradientPointAlpha: rgba(17, 24, 39, 0.85);
-    --lighterGradientPoint: #1d2635;
-    --lighterGradientPointAlpha: rgba(29, 38, 53, 0.85);
+    --darkerGradientPoint: #341539;
+    --darkerGradientPointAlpha: rgb(0, 0, 0);
+    --lighterGradientPoint: #7a0000;
+    --lighterGradientPointAlpha: rgba(122, 0, 0, 0.85);
     --borderColor: rgb(71, 80, 92);
     --lighterBorderColor: rgb(255 255 255 / 20%);
-    --headerColor: rgba(30, 40, 54, 0.8);
-    --drawerColor: rgba(30, 40, 54, 0.9);
-    --selectorBackgroundColor: rgb(55, 65, 81);
-    --selectorBackgroundColorAlpha: rgba(55, 65, 81, 0.5);
+    --headerColor: rgb(48, 2, 4);
+    --drawerColor: rgb(48, 2, 4);
+    --selectorBackgroundColor: rgb(81, 55, 55);
+    --selectorBackgroundColorAlpha: rgba(81, 55, 55, 0.5);
     --btnDeleteColor: rgb(169, 29, 29);
     --btnDeleteBorderColor: rgb(217, 84, 84);
-    --btnSubmitColor: rgb(61, 54, 178);
-    --btnSubmitBorderColor: rgb(117 111 226);
+    --btnSubmitColor: rgba(147, 0, 0, 0.651);
+    --btnSubmitBorderColor: rgb(226, 111, 111);
     --checkboxCheckedBgColor: rgb(79, 70, 229);
-    --highlightOutlineColor: rgb(37, 99, 235);
+    --highlightOutlineColor: rgb(235, 37, 37);
     --textColor: rgb(209, 213, 219);
     --dimTextColor: rgb(156, 163, 175);
     --activeColorAlpha: rgba(119, 91, 244, 0.9);
